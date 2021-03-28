@@ -10,7 +10,7 @@
  *
  *
  */
-package com.shunyi.laboratory.verification.exec;
+package com.shunyi.laboratory.schema;
 
 /**
  * @Author: Simeon Chen
